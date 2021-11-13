@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>talks on Navendu Pottekkat</title>
+    <link>https://navendu.me/tags/talks/</link>
+    <description>Recent content in talks on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Nov 2021 12:56:25 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webinar: Non-Code Contributions to Open-Source</title>
+      <link>https://navendu.me/posts/webinar-non-code-contributions-to-open-source/</link>
+      <pubDate>Sun, 07 Nov 2021 12:56:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/webinar-non-code-contributions-to-open-source/</guid>
+      <description>Key takeaways and resources from Navendu&amp;rsquo;s talk on Non-Code Contributions to Open-Source.</description>
+    </item>
+    
+    <item>
+      <title>Building Your Career in Open-Source</title>
+      <link>https://navendu.me/posts/building-your-career-in-open-source/</link>
+      <pubDate>Thu, 30 Sep 2021 12:56:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/posts/building-your-career-in-open-source/</guid>
+      <description>My experience from a new programmer to working in open-source full time.</description>
+    </item>
+    
+    <item>
+      <title>CNCF Webinar: Meshery, the Service Mesh Manager</title>
+      <link>https://navendu.me/posts/cncf-webinar-meshery/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://navendu.me/posts/cncf-webinar-meshery/</guid>
+      <description>This CNCF Webinar introduces Meshery, the open source, service mesh management plane that enables the adoption, operation, and management of any service mesh and their workloads.</description>
+    </item>
+    
+  </channel>
+</rss>

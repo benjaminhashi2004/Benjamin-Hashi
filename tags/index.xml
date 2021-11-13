@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Navendu Pottekkat</title>
+    <link>https://navendu.me/tags/</link>
+    <description>Recent content in Tags on Navendu Pottekkat</description>
+    <image>
+      <url>https://navendu.me/images/preview.png</url>
+      <link>https://navendu.me/</link>
+      <title>Navendu Pottekkat</title>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Nov 2021 12:56:25 +0530</lastBuildDate><atom:link href="https://navendu.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>open-source</title>
+      <link>https://navendu.me/tags/open-source/</link>
+      <pubDate>Mon, 08 Nov 2021 12:56:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>https://navendu.me/tags/talks/</link>
+      <pubDate>Sun, 07 Nov 2021 12:56:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tips</title>
+      <link>https://navendu.me/tags/tips/</link>
+      <pubDate>Wed, 15 Sep 2021 17:52:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internship</title>
+      <link>https://navendu.me/tags/internship/</link>
+      <pubDate>Sat, 28 Aug 2021 17:52:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/internship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>list</title>
+      <link>https://navendu.me/tags/list/</link>
+      <pubDate>Sat, 28 Aug 2021 17:52:25 +0530</pubDate>
+      
+      <guid>https://navendu.me/tags/list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud-native</title>
+      <link>https://navendu.me/tags/cloud-native/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://navendu.me/tags/cloud-native/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cncf</title>
+      <link>https://navendu.me/tags/cncf/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://navendu.me/tags/cncf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>service-mesh</title>
+      <link>https://navendu.me/tags/service-mesh/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://navendu.me/tags/service-mesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webinar</title>
+      <link>https://navendu.me/tags/webinar/</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://navendu.me/tags/webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>documentation</title>
+      <link>https://navendu.me/tags/documentation/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://navendu.me/tags/documentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>readme</title>
+      <link>https://navendu.me/tags/readme/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://navendu.me/tags/readme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://navendu.me/tags/tutorial/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://navendu.me/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
