@@ -1,0 +1,149 @@
+baseURL: https://navendu.me/
+languageCode: en-us
+title: "Navendu Pottekkat"
+theme: "PaperMod"
+paginate: 5
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+enableGitInfo: true
+
+googleAnalytics: UA-205698358-1
+
+disqusShortname: navendu
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: "Navendu Pottekkat"
+    description: "Software Engineer working on Service Meshes, Deep Learning and Everything Open-Source."
+    keywords: [Navendu, Pottekkkat, Blog, Portfolio, Resume]
+    author: "Navendu Pottekkat"
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto # dark, light
+    disableThemeToggle: true
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: true
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+    images: ["images/preview.png","Navendu Pottekkat", "https://navendu.me/"]
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi! I'm Navendu 👋🏼"
+        Content: >
+          - Software Engineer working on Service Meshes, Deep Learning and Everything Open-Source
+          
+          -
+          
+          - I maintain [Meshery](https://github.com/meshery/meshery) and [Service Mesh Performance](https://github.com/service-mesh-performance/service-mesh-performance) @ [Cloud Native Computing Foundation](https://www.cncf.io/) and I'm also the creator and a maintainer of [NSFW Filter](https://github.com/nsfw-filter/nsfw-filter)
+          
+          -
+
+          - I write about Cloud Native, Deep Learning, [Open-Source](/tags/open-source/) Project Management, Books and Life
+
+          -
+
+          - If you are here for the first time, check out the [featured posts](/categories/featured/) or learn more [about me](/about)
+
+          -
+
+          - You can find me online on the links below
+
+    socialIcons:
+        - name: email
+          url: "mailto:navendupottekkat@gmail.com"
+        - name: github
+          url: "https://github.com/navendu-pottekkat"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/navendup/"
+        - name: medium
+          url: "https://medium.com/@navendupottekkat"
+        - name: stackoverflow
+          url: "https://stackoverflow.com/users/12424846/navendu-pottekkat"
+        - name: twitter
+          url: "https://twitter.com/sudo_navendu"
+        - name: facebook
+          url: "https://www.facebook.com/navendupottekkat/"
+        - name: instagram
+          url: "https://www.instagram.com/sudo_navendu/"
+        - name: youtube
+          url: "https://www.youtube.com/channel/UCWwMJ5SxVStO04W3nOrCiNA"
+        - name: goodreads
+          url: "https://www.goodreads.com/user/show/83926433-navendu-pottekkat"
+        - name: rss
+          url: /index.xml
+
+    cover:
+        hidden: false # hide everywhere but not in structured data
+        hiddenInList: false # hide on list pages and home
+        hiddenInSingle: false # hide on single page
+
+    editPost:
+        URL: "https://github.com/navendu-pottekkat/navendu-pottekkat.github.io/blob/hugo/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: archives
+          name: Archives
+          url: /archives/
+          weight: 10
+        - identifier: categories
+          name: Categories
+          url: /categories/
+          weight: 20
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 30
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 40
+        - identifier: about
+          name: About
+          url: /about/
+          weight: 50
+        - identifier: subscribe
+          name: Subscribe
+          url: http://eepurl.com/hGJfXv
+          weight: 60
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
